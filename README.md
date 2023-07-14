@@ -5,3 +5,12 @@ Algumas funcionalidades do sistema:
 - Níveis de Acesso;
 - Cadastro, consulta, edição e exclusão dos dados;
 - Organizador de fluxos com gráficos em Power BI.
+
+------------------------------------------------------------
+
+System for a Web platform, making it possible to register women in the program that was designed by the Franco da Rocha city hall, with a simple and objective layout. Some system features:
+
+User Authentication;
+Access Levels;
+Registration, consultation, editing and deletion of data;
+Flow organizer with charts in Power BI.
